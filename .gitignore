@@ -66,6 +66,9 @@ DerivedDataCache/*
 *.swo
 .ctrlp_cache/
 
+# node.js
+Content/Scripts/node_modules
+
 # @MuhunKim's gitiginore
 Content/Collections
 Content/Developers
